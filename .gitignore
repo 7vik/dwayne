@@ -1,2 +1,5 @@
 # do not add data files
 data/*.csv
+
+# do not add pip3 venv binaries
+env/*
