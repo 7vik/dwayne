@@ -5,4 +5,4 @@ data/*.csv
 env/*
 
 # except pip freezes
-!env/requirements.txt
+!requirements.txt
