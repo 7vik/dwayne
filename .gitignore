@@ -1,8 +1,9 @@
-# do not add data files
+# do not add data files (use the download link in the README)
 data/*.csv
 
-# do not add pip3 venv binaries
+# do not add pip3 venv binaries (use pip install -r requirements.txt)
 env/*
+linux_env/*
 
 # except pip freezes
 !requirements.txt
